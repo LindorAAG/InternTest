@@ -1,6 +1,0 @@
-Path: C:\Users\LindokuhleMa\Documents
-			 2017 April 10 09:37
-A.TXT is a duplicate of B.TXT
-C.TXT is a duplicate of D.TXT
-
-
